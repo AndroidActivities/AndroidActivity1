@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidActivity1</string>
+    <string name="title">Hello World</string>
+    <string name="body">We are learning Android :)</string>
+    <string name="access">Flag</string>
+    <string name="ic_stat_name">Resolution Image</string>
+</resources>

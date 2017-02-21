@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidActivity1</string>
+    <string name="title">Hola Mundo</string>
+    <string name="body">Estamos aprendiendo Android :)</string>
+    <string name="access">Bandera</string>
+    <string name="ic_stat_name">Resolución pantalla</string>
+</resources>
